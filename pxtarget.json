@@ -17,7 +17,7 @@
       "variablesBlocks": true,
       "textBlocks": false,
       "functionBlocks": false,
-      "listsBlocks": false 
+      "listsBlocks": false
     },
     "simulator": {
         "autoRun": true
@@ -42,8 +42,8 @@
         "monacoToolbox": true,
         "invertedMenu": true,
         "showHomeScreen": true,
-        "homeScreenHero": "./static/hero.png",        
-        "blocklyOptions": { 
+        "homeScreenHero": "./static/hero.png",
+        "blocklyOptions": {
             "grid": {
                 "spacing": 45,
                 "length": 7,
@@ -57,6 +57,7 @@
         "debugger": true,
         "print": true,
         "highContrast": true,
+        "python": true,
         "greenScreen": true,
         "monacoColors": {
             "editor.background": "#ecf0f1"
